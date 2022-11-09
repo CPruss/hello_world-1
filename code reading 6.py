@@ -1,5 +1,5 @@
 
-class ClassifyingNumbers:
+class ClassifyingNumbers: # This is a comment.
     
     def __init__(self, number, propers=[]):
         self.number = number
